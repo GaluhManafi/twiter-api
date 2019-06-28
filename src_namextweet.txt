@@ -1,0 +1,2 @@
+"C:\\Users\\GALUH\\Documents\\JCreator Pro\\MyProjects\\NamexTweet\\NamexTweet.java"
+"C:\\Users\\GALUH\\Documents\\JCreator Pro\\MyProjects\\NamexTweet\\src\\NamexTweet.java"
